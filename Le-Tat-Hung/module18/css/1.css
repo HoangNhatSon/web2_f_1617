@@ -1,0 +1,44 @@
+.module18 .logo img {
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.module18 .navbar-default {
+  background: none;
+  border: none;
+  padding-left: 135px;
+  margin-top: 30px;
+}
+.module18 .lasticon ul {
+  list-style: none;
+  float: right;
+  padding-top: 45px;
+  margin-right: 20px;
+}
+.module18 .lasticon ul li {
+  float: left;
+  padding-left: 30px;
+  font-size: 17px;
+}
+.module18 .navbar-default .navbar-nav>li>a {
+  float: left;
+}
+.module18 .navbar-default .navbar-nav>.active>a,
+.module18 .navbar-default .navbar-nav>.active>a:focus,
+.module18 .navbar-default .navbar-nav>.active>a:hover {
+  background: none;
+}
+.module18 .banner {
+  background: url(../images/shop-title1.jpg);
+  height: 300px;
+}
+.module18 h1 {
+  color: #fff;
+  font-size: 70px;
+  margin-bottom: 50px;
+  padding-top: 150px;
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  line-height: 15px;
+}

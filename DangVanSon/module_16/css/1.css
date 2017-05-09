@@ -1,0 +1,55 @@
+.type-16 .search1 {
+  padding: 10px;
+  border: 1px solid #ebebeb;
+}
+.type-16 .fa {
+  padding: 13px;
+  margin-left: -5px;
+  color: black;
+  background-color: #fff;
+  border: 1px solid #ebebeb;
+}
+.type-16 .gach {
+  border: 1px solid #ebebeb;
+  width: 70%;
+}
+.type-16 .chu1 {
+  padding-top: 15px;
+}
+.type-16 .chu1 a {
+  color: #949494;
+  display: block;
+  margin: 0 0 13px 0;
+}
+.type-16 .gach1 {
+  border: 1px solid #ebebeb;
+  width: 70%;
+}
+.type-16 .hinh img {
+  margin-top: 25px;
+  width: 50%;
+  border-radius: 100%;
+  padding-right: 5px;
+}
+.type-16 .hinh span {
+  color: #949494;
+}
+.type-16 .chu3 {
+  position: absolute;
+  top: 0;
+  padding-top: 64px;
+  margin-left: -40px;
+}
+.type-16 .giatien {
+  margin-top: 53px;
+}
+.type-16 .giatien a {
+  color: #949494;
+}
+.type-16 .soup {
+  position: absolute;
+  margin-top: 50px;
+}
+.type-16 .lastitem {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,10 @@
+.module10 .owl-next {
+  position: absolute;
+  top: 110px;
+  left: 50px;
+}
+.module10 .owl-prev {
+  position: absolute;
+  top: 110px;
+  right: 50px;
+}
